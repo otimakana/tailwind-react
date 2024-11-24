@@ -11,10 +11,10 @@ export default function App() {
 
 
       {/**Content */}
-      {/* <HomePage /> */}
+      <HomePage />
 
       {/**Footer */}
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }
